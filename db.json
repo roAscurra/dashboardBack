@@ -303,6 +303,36 @@
       "promociones": [2]
     }
   ],
+  "cupones": [
+    {
+      "id": 1,
+      "denominacion": "cupón1",
+      "fechaDesde": "2024-05-05",
+      "fechaHasta": "2024-06-05",
+      "descripcion": "Este cupón ofrece un descuento del 20% en tu próxima compra."
+    },
+    {
+      "id": 2,
+      "denominacion": "cupón2",
+      "fechaDesde": "2024-05-10",
+      "fechaHasta": "2024-06-10",
+      "descripcion": "Usa este cupón para obtener envío gratis en tu orden."
+    },
+    {
+      "id": 3,
+      "denominacion": "cupón3",
+      "fechaDesde": "2024-05-15",
+      "fechaHasta": "2024-06-15",
+      "descripcion": "Este cupón te da un descuento de $10 en tu próxima compra."
+    },
+    {
+      "id": 4,
+      "denominacion": "cupón4",
+      "fechaDesde": "2024-05-20",
+      "fechaHasta": "2024-06-20",
+      "descripcion": "Usa este cupón para obtener un artículo gratis con tu orden."
+    }
+  ],
   "promociones": [
     {
       "id": 1,
